@@ -143,3 +143,8 @@ C:\Users\Jay\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\zh-Ha
 C:\Users\Jay\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Jay\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Jay\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\Jay\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Customers\Create.cshtml.g.cs
+C:\Users\Jay\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Customers\Delete.cshtml.g.cs
+C:\Users\Jay\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Customers\Details.cshtml.g.cs
+C:\Users\Jay\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Customers\Edit.cshtml.g.cs
+C:\Users\Jay\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Customers\Index.cshtml.g.cs
